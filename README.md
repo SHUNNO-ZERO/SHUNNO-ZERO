@@ -1,8 +1,9 @@
 
-
  
 
- <p align="center">        <img  width="1300" height="500"   src="https://i.ibb.co/qYqg94J/stock-photo-machine-learning-and-cognitive-computing-3d-rendering.jpg" alt="stock-photo-machine-learning-and-cognitive-computing-3d-rendering" border="0"      > </p>
+ <p align="center">        <img  width="1000" height="200"   src= 
+"https://i.ibb.co/zb1Nr7H/1.png"
+                            alt="stock-photo-machine-learning-and-cognitive-computing-3d-rendering" border="0"      > </p>
  
 
 
