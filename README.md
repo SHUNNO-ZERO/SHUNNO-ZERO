@@ -20,13 +20,11 @@
 - 🌱 I’m currently learning **GraphQL,Cloud Computing**
 - 👨‍💻 All of my projects are available at [https://www.mdasifmahmud.me/](https://www.mdasifmahmud.me/)
 - 💬 Ask me about **react,aws**
--🎤 My hobby is singing. 
-- 
 - 📫 How to reach me **mahmudasif616@gmail.com**
 
 
 - 📄 Know about my experiences [https://www.mdasifmahmud.me/](https://www.mdasifmahmud.me/)
-
+- 🎤 My hobby is **singing.**
 - ⚡ Fun fact **I think I am not funny.**
 
 <h3 align="left">Connect with me:</h3>
