@@ -1,16 +1,11 @@
 
  
-
- <p align="center">        <img  width="1000" height="200"   src= 
-"https://i.ibb.co/zb1Nr7H/1.png"
-                            alt="stock-photo-machine-learning-and-cognitive-computing-3d-rendering" border="0"      > </p>
  
 
 
 
-
-<h1 align="center"> Hi 👋, I'm Md Asif Mahmud</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+<h1 align="center"> Md Asif Mahmud</h1>
+<h3 align="center">Full Stack Developer.</h3>
 
 <p><img align="right" width="350"  src="https://i.ibb.co/kg35YZL/asif7.png" alt="md asif mahmud" /></p>
 
