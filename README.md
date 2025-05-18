@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Asif Mahmud
+# Md Asif Mahmud
 
 **Frontend Developer — React / Next.js**  
 💻 Full-Stack & DevOps Enthusiast  
