@@ -34,21 +34,21 @@ Figma • Git & GitHub • Postman • Play Store Publishing
 
 ## 🚀 Projects
 
-### 🔹 [SeaSky – Fashion E-commerce]
+### 🔹 SeaSky – Fashion E-commerce
 A responsive fashion brand e-commerce platform built with Medusa and Next.js.  
 **Tech**: Next.js, Medusa, Tailwind CSS, AWS
 
-### 🔹 [LifeSolutionHub – Product & Service Marketplace] 
+### 🔹 LifeSolutionHub – Product & Service Marketplace
 A full-stack product & service platform with user auth and high performance.  
 **Tech**: Next.js, Tailwind CSS, Vercel, GitHub Actions  
 
 
-### 🔹 [Online Blockchain Voting System]
+### 🔹 Online Blockchain Voting System
 Secure blockchain voting system with news-style UI and wallet-based login.  
 **Tech**: React.js, Web3.js, Solidity (concept)  
 
 
-### 🔹 [Hello Service – Booking Platform]
+### 🔹 Hello Service – Booking Platform
 A Next.js-based booking platform for services like home cleaning.  
 **Tech**: Next.js, Firebase, Tailwind CSS, AWS  
 
