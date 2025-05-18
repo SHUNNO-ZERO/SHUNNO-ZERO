@@ -1,54 +1,63 @@
 # 👋 Hi, I'm Md Mahmud
 
-**Frontend Developer – React / Next.js**  
-🔧 Full-Stack & DevOps Enthusiast  
-📍 Based in Hazaribagh, Dhaka  
+**Frontend Developer — React / Next.js**  
+💻 Full-Stack & DevOps Enthusiast  
+📍 Hazaribagh, Dhaka  
 📫 mahmud@gmail.com | 📞 +8801XXXXXXXXX  
 🌐 [GitHub](https://github.com/mahmud) | [LinkedIn](https://linkedin.com/in/mahmud)
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-Passionate frontend developer focused on creating clean, responsive UIs using **React**, **Next.js**, and **Tailwind CSS**. I enjoy building scalable web apps with modern stacks like **Medusa**, **Docker**, and **AWS**, with experience in deploying full-stack solutions and maintaining CI/CD pipelines.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**: React.js, Next.js, Tailwind CSS, Vue.js  
-**Backend**: Node.js, Express.js, Medusa, MongoDB  
-**DevOps & Cloud**: AWS (EC2, S3), Docker, GitHub Actions, Vercel  
-**Other Tools**: Firebase, Figma, Git, Postman
+I'm a frontend developer passionate about building clean, responsive UIs with React and Next.js.  
+I love improving performance, working with APIs, and deploying modern web apps with cloud and DevOps tools.
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Tech Stack
 
-### 🔹 [Ecommerce Redesign – Medusa & Next.js](#)
-Responsive storefront with product filtering and Medusa integration.  
-Tech: Next.js, Tailwind, Medusa, Vercel
+**Frontend**  
+React.js • Next.js • Tailwind CSS • JavaScript (ES6+) • Vue.js
+
+**Backend & Tools**  
+Node.js • Express.js • MongoDB • REST APIs
+
+**DevOps & Cloud**  
+AWS (EC2, S3) • Docker • GitHub Actions • CI/CD • Vercel • Firebase • Nginx
+
+**Other**  
+Figma • Git • GitHub • Postman
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Ecommerce Frontend Redesign](#)  
+A clean and responsive e-commerce site built with React & Tailwind.  
+**Tech**: Next.js, Tailwind CSS, Vercel
 
 ### 🔹 [LifeSolution Hub](#)  
-Full-stack marketplace with user auth and AWS deployment.  
-Tech: Next.js, AWS EC2/S3, Docker, GitHub Actions
+A full-stack product & service marketplace with user authentication.  
+**Tech**: Next.js, AWS, Docker, GitHub Actions
 
 ### 🔹 [Blockchain Voting System (Prototype)](#)  
-Secure voting UI with planned smart contract simulation.  
-Tech: React.js, Solidity (concept), Web3.js
+A secure voting UI built with React simulating blockchain logic.  
+**Tech**: React.js, Solidity (concept), Web3.js
 
-### 🔹 [Service App (Vue)](#)  
-Mobile-friendly service platform deployed to Play Store.  
-Tech: Vue.js, Firebase, AWS
+### 🔹 [Service App](#)  
+A mobile-first platform for services (e.g., cleaning), deployed on Play Store.  
+**Tech**: Vue.js, Firebase, AWS
 
 ---
 
 ## 💼 Experience
 
 **Frontend Developer – Sea Sky Ltd**  
-📍 Dhaka | 🗓️ Aug 2024 – Present  
-- Built and maintained a responsive fashion e-commerce site using Next.js & Medusa  
-- Focused on performance, deployment (Vercel), and design collaboration
+📍 Dhaka | 🗓️ Aug 2024 – Present  
+- Developing responsive fashion e-commerce UI using Next.js  
+- Working closely with UI/UX designers and backend team  
+- Handling domain config, deployment, and performance optimization
 
 ---
 
@@ -56,19 +65,15 @@ Tech: Vue.js, Firebase, AWS
 
 **B.Sc. in Computer Science & Engineering**  
 Institute of Science and Technology, Dhaka  
-🗓️ Jan 2018 – Jan 2025 (Expected)
+🗓️ Jan 2018 – Jan 2025 
 
 ---
 
-## 🏆 Certifications
+## 🏅 Certification
 
-**JavaScript Algorithms and Data Structures** – *freeCodeCamp*  
-[View Certificate](#)
+**JavaScript Algorithms and Data Structures** — *freeCodeCamp*  
+
 
 ---
 
-## 🤝 Let's Connect
-
-Open to collaboration, freelance, or full-time opportunities.  
-Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/mahmud)!
 
