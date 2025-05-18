@@ -1,79 +1,102 @@
-# 👋 Hi, I'm Md Mahmud
+# 👋 Hi, I'm Md Asif Mahmud
 
 **Frontend Developer — React / Next.js**  
 💻 Full-Stack & DevOps Enthusiast  
-📍 Hazaribagh, Dhaka  
-📫 mahmud@gmail.com | 📞 +8801XXXXXXXXX  
-🌐 [GitHub](https://github.com/mahmud) | [LinkedIn](https://linkedin.com/in/mahmud)
+📍 Dhaka, Bangladesh  
+📫 mahmudasif616@gmail.com | 📞 +8801858985731  
+🌐 [GitHub](https://github.com/SHUNNO-ZERO) | [LinkedIn](https://linkedin.com/in/md-asif-mahmud-17858a195)
 
 ---
 
 ## 🧠 About Me
 
-I'm a frontend developer passionate about building clean, responsive UIs with React and Next.js.  
-I love improving performance, working with APIs, and deploying modern web apps with cloud and DevOps tools.
+Frontend developer with 3+ years of experience, specializing in JavaScript and modern frameworks like React and Next.js.  
+I focus on building SEO-friendly, scalable frontend architectures with intuitive UIs.  
+Skilled in deploying applications using Vercel, managing CI/CD with AWS, and collaborating across teams.
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Frontend**  
-React.js • Next.js • Tailwind CSS • JavaScript (ES6+) • Vue.js
+React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+)
 
 **Backend & Tools**  
 Node.js • Express.js • MongoDB • REST APIs
 
-**DevOps & Cloud**  
-AWS (EC2, S3) • Docker • GitHub Actions • CI/CD • Vercel • Firebase • Nginx
+**DevOps & Deployment**  
+AWS (EC2, S3, Route 53) • Docker • GitHub Actions • CI/CD • Vercel • Netlify • Firebase • Nginx
 
 **Other**  
-Figma • Git • GitHub • Postman
+Figma • Git & GitHub • Postman • Play Store Publishing
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Ecommerce Frontend Redesign](#)  
-A clean and responsive e-commerce site built with React & Tailwind.  
-**Tech**: Next.js, Tailwind CSS, Vercel
+### 🔹 [SeaSky – Fashion E-commerce]
+A responsive fashion brand e-commerce platform built with Medusa and Next.js.  
+**Tech**: Next.js, Medusa, Tailwind CSS, AWS
 
-### 🔹 [LifeSolution Hub](#)  
-A full-stack product & service marketplace with user authentication.  
-**Tech**: Next.js, AWS, Docker, GitHub Actions
+### 🔹 [LifeSolutionHub – Product & Service Marketplace] 
+A full-stack product & service platform with user auth and high performance.  
+**Tech**: Next.js, Tailwind CSS, Vercel, GitHub Actions  
 
-### 🔹 [Blockchain Voting System (Prototype)](#)  
-A secure voting UI built with React simulating blockchain logic.  
-**Tech**: React.js, Solidity (concept), Web3.js
 
-### 🔹 [Service App](#)  
-A mobile-first platform for services (e.g., cleaning), deployed on Play Store.  
-**Tech**: Vue.js, Firebase, AWS
+### 🔹 [Online Blockchain Voting System]
+Secure blockchain voting system with news-style UI and wallet-based login.  
+**Tech**: React.js, Web3.js, Solidity (concept)  
+
+
+### 🔹 [Hello Service – Booking Platform]
+A Next.js-based booking platform for services like home cleaning.  
+**Tech**: Next.js, Firebase, Tailwind CSS, AWS  
+
 
 ---
 
 ## 💼 Experience
 
 **Frontend Developer – Sea Sky Ltd**  
-📍 Dhaka | 🗓️ Aug 2024 – Present  
-- Developing responsive fashion e-commerce UI using Next.js  
-- Working closely with UI/UX designers and backend team  
-- Handling domain config, deployment, and performance optimization
+📍 New Elephant Road, Dhaka | 🗓️ May 2023 – March 2025  
+- Built the complete frontend for a fashion e-commerce platform using Next.js & Medusa  
+- Integrated filtering, cart, and product detail features  
+- Collaborated with UI/UX team & backend developers  
+- Deployed on AWS with full CI/CD pipelines
 
 ---
 
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
-Institute of Science and Technology, Dhaka  
-🗓️ Jan 2018 – Jan 2025 
+Institute of Science and Technology (IST), Dhaka  
+🗓️ Dec 2019 – Dec 2024
 
 ---
 
-## 🏅 Certification
+## 🏅 Certifications
 
 **JavaScript Algorithms and Data Structures** — *freeCodeCamp*  
-
+📜 Issued: Jan 2020
 
 ---
 
+## 🧩 Volunteering
+
+**Volunteer – IST Programming Club**  
+📍 Dhaka | 🗓️ Jan 2020 – Jan 2023  
+- Organized coding events  
+- Mentored juniors in frontend development  
+- Helped manage the club’s web activities
+
+---
+
+## 🔧 Skills Summary
+
+**Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3, Firebase  
+**Backend**: Node.js, Express.js, MongoDB, REST APIs  
+**DevOps / Deployment**: AWS (EC2, S3, Route 53), Docker, GitHub Actions, Netlify, Nginx, Vercel  
+**Other**: Figma, Git, Postman, Play Store Publishing
+
+---
 
